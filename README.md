@@ -134,6 +134,7 @@ The interactive dashboard was developed using Power BI, with the cleaned CSV dat
 - Sales by Product Category
 - Sales by Region
 - Payment Method Analysis
+- Customer Rating by Category
 - Interactive filters for exploring sales data
 
 ## Business Questions and Key Findings

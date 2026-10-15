@@ -121,7 +121,7 @@ The interactive dashboard was developed using Power BI, with the cleaned CSV dat
 
 ![E-Commerce Sales Analytics Dashboard](screenshots/dashboard.png)
 
-**Power BI File:** [ecommerce_sales_dashboard.pbix](powerbi/ecommerce_sales_dashboard.pbix)
+**Power BI File:** [ecommerce_sales_dashboard.pbix][dashboard.png]
 
 ### Dashboard Highlights
 

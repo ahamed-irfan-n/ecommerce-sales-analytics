@@ -73,5 +73,5 @@ This dashboard presents e-commerce sales data through interactive visualizations
 
 **Ahamed Irfan N**
 
-Aspiring Data Analyst | Python | SQL | Excel | Power BI
+Aspiring Data Analyst | Python(pandas) |numpy| SQL | Excel | Power BI
 

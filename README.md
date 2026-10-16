@@ -264,7 +264,7 @@ This dataset is used for educational and portfolio purposes. Credit is given to 
 ## Author & Contact
 
 Ahamed Irfan N  
-Aspiring Data Analyst | Python (Pandas) | SQL | Excel | Power BI
+Aspiring Data Analyst | Python (Pandas) | numpy| SQL | Excel | Power BI
 
 - GitHub: [https://github.com/ahamed-irfan-n]
 - LinkedIn: [https://linkedin.com/in/ahamed-irfan-n-5b5303418]  

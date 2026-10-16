@@ -267,7 +267,7 @@ Ahamed Irfan N
 Aspiring Data Analyst | Python (Pandas) | SQL | Excel | Power BI
 
 - GitHub: [https://github.com/ahamed-irfan-n]
-- LinkedIn: [https://linkedin.com/in/ahamed-irfan-n-5b5303418]  make it as author&contact
+- LinkedIn: [https://linkedin.com/in/ahamed-irfan-n-5b5303418]  
 
 ## Conclusion
 

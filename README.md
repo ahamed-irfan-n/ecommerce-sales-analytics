@@ -261,6 +261,14 @@ The dashboard uses `data/ecommerce_sales_cleaned.csv` as its data source. If Pow
 
 This dataset is used for educational and portfolio purposes. Credit is given to the original dataset creator. The dataset is subject to the attribution and ShareAlike requirements of the CC BY-SA 4.0 license.
 
+## Author & Contact
+
+Ahamed Irfan N  
+Aspiring Data Analyst | Python (Pandas) | SQL | Excel | Power BI
+
+- GitHub: [https://github.com/ahamed-irfan-n]
+- LinkedIn: [https://linkedin.com/in/ahamed-irfan-n-5b5303418]  make it as author&contact
+
 ## Conclusion
 
 This project demonstrates a practical data analytics workflow using Python for data preparation, MySQL for business analysis, and Power BI for interactive dashboard reporting.
